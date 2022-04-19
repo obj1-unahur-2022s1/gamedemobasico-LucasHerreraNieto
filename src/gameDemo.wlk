@@ -43,3 +43,4 @@ class Maiz {
 	var property position
 	var property image = "corn_adult.png"
 }
+
